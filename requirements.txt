@@ -1,0 +1,10 @@
+streamlit==1.31.0
+joblib==1.3.2
+pandas==2.1.4
+requests==2.31.0
+scikit-learn
+numpy==1.26.3
+tpot==1.1.0
+deap
+update_checker
+stopit
